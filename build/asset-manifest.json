@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.057a26d4.chunk.css",
+    "main.js": "/static/js/main.a797c721.chunk.js",
+    "main.js.map": "/static/js/main.a797c721.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.adf7435c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.adf7435c.js.map",
+    "static/js/2.56ef4840.chunk.js": "/static/js/2.56ef4840.chunk.js",
+    "static/js/2.56ef4840.chunk.js.map": "/static/js/2.56ef4840.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e2f4d7172fa460bd356c2540de4267e6.js": "/precache-manifest.e2f4d7172fa460bd356c2540de4267e6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.057a26d4.chunk.css.map": "/static/css/main.057a26d4.chunk.css.map",
+    "static/js/2.56ef4840.chunk.js.LICENSE.txt": "/static/js/2.56ef4840.chunk.js.LICENSE.txt",
+    "static/media/5ARz.gif": "/static/media/5ARz.070e96d4.gif",
+    "static/media/7jiL.gif": "/static/media/7jiL.f0ecc275.gif",
+    "static/media/9viJ.gif": "/static/media/9viJ.256ae6f3.gif",
+    "static/media/andriod.gif": "/static/media/andriod.c38485e6.gif",
+    "static/media/blockchain.gif": "/static/media/blockchain.f2290582.gif",
+    "static/media/digi marketing.gif": "/static/media/digi marketing.03999141.gif",
+    "static/media/n2.mp4": "/static/media/n2.8b456302.mp4",
+    "static/media/sc.gif": "/static/media/sc.4c72c0b1.gif",
+    "static/media/uiux.gif": "/static/media/uiux.efa0fad8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf7435c.js",
+    "static/js/2.56ef4840.chunk.js",
+    "static/css/main.057a26d4.chunk.css",
+    "static/js/main.a797c721.chunk.js"
+  ]
+}
